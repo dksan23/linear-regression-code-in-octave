@@ -1,4 +1,5 @@
-# linear-regression-code-in-octave
+# linear-regression-code-in-octave with gradient descent
+
 this repository contains the implementation of linear regression with a sample dataset  
 the code is to be run in OCTAVE 
 uSE lineareg1.m as the driver , if your dataset contains a single feature .
